@@ -46,8 +46,8 @@ namespace APILearning.Services.Implement
         
         public async Task<UserDto> Login(LoginDto loginDto)
         {
-            //var user = await _context.Users.SingleOrDefaultAsync(x => x.Email == loginDto.Email);
-            AppUser user = await _userRepository.GetUsersByEmailAsync(loginDto.Email);
+            
+            AppUser user = await _userRepository.GetUserByEmailAsync(loginDto.Email);
             if (user == null)
             {
                 throw new UnauthorizedAccessException("Invalid Email");

@@ -37,7 +37,7 @@ namespace APILearning.Repositories.Implement
             return await _context.Users.FindAsync(id);
         }
 
-        public async Task<AppUser> GetUsersByEmailAsync(string email)
+        public async Task<AppUser> GetUserByEmailAsync(string email)
         {
             var user = await _context.Users.SingleOrDefaultAsync(x => x.Email == email);
             return user;

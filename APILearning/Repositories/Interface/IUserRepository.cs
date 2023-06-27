@@ -9,6 +9,6 @@ namespace APILearning.Repositories.Interface
         Task<int> AddAsync(AppUser user);
         Task <IEnumerable<AppUser>> GetUsersAsync();
         Task <AppUser> GetUserByIdAsync(int id);
-        Task<AppUser> GetUsersByEmailAsync(string email);
+        Task<AppUser> GetUserByEmailAsync(string email);
     }
 }

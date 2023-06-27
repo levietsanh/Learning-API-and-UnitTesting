@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e5ZqyvKzITbQ9Q1JeNh9xot6Z4B4MU8jGc4iUY8pTpiJ3CY4VaoME0+nqFqmtulaUjZr8Jb9tO9cl08Dyg0Xtg==",
+  "dgSpecHash": "5PnSu+b7VubTOgsSarf748oFKcJQwpmESi6wAlLOZMCGbgDVqTzQxbUI1cV83+NNDHvIMJKjS9q4H8z5GTxIfA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\levie\\source\\repos\\APILearning\\APILearning\\APILearning.csproj",
+  "projectFilePath": "C:\\Users\\levie\\Source\\Repos\\Learning-API-and-UnitTesting\\APILearning\\APILearning.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\levie\\.nuget\\packages\\automapper\\8.0.0\\automapper.8.0.0.nupkg.sha512",
     "C:\\Users\\levie\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\6.0.0\\automapper.extensions.microsoft.dependencyinjection.6.0.0.nupkg.sha512",

@@ -6196,11 +6196,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\levie\\source\\repos\\APILearning\\APILearning\\APILearning.csproj",
+      "projectUniqueName": "C:\\Users\\levie\\Source\\Repos\\Learning-API-and-UnitTesting\\APILearning\\APILearning.csproj",
       "projectName": "APILearning",
-      "projectPath": "C:\\Users\\levie\\source\\repos\\APILearning\\APILearning\\APILearning.csproj",
+      "projectPath": "C:\\Users\\levie\\Source\\Repos\\Learning-API-and-UnitTesting\\APILearning\\APILearning.csproj",
       "packagesPath": "C:\\Users\\levie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\levie\\source\\repos\\APILearning\\APILearning\\obj\\",
+      "outputPath": "C:\\Users\\levie\\Source\\Repos\\Learning-API-and-UnitTesting\\APILearning\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\levie\\AppData\\Roaming\\NuGet\\NuGet.Config",
