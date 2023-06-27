@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APILearning", "APILearning\APILearning.csproj", "{9DC50A7F-150F-4C5C-AC60-849115FC3BAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APILearning.Tests", "APILearning.Tests\APILearning.Tests.csproj", "{88D76245-BAD9-48D5-8D86-040B0001FF46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DC50A7F-150F-4C5C-AC60-849115FC3BAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DC50A7F-150F-4C5C-AC60-849115FC3BAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DC50A7F-150F-4C5C-AC60-849115FC3BAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DC50A7F-150F-4C5C-AC60-849115FC3BAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88D76245-BAD9-48D5-8D86-040B0001FF46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88D76245-BAD9-48D5-8D86-040B0001FF46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88D76245-BAD9-48D5-8D86-040B0001FF46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88D76245-BAD9-48D5-8D86-040B0001FF46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD550C3C-FB50-44C0-8B59-CE083D61061F}
+	EndGlobalSection
+EndGlobal
